@@ -2,7 +2,7 @@
     "navigation": [
         {
             "id": "tier1-new-trending",
-            "name": "NEW & TRENDING",
+            "name": "New & Trending",
             "link": null,
             "children": [
                 {
@@ -162,7 +162,7 @@
         },
         {
             "id": "tier1-women",
-            "name": "WOMEN",
+            "name": "Women",
             "link": "https://uk.puma.com/uk/en/women",
             "children": [
                 {
@@ -807,7 +807,7 @@
         },
         {
             "id": "tier1-men",
-            "name": "MEN",
+            "name": "Men",
             "link": "https://uk.puma.com/uk/en/men",
             "children": [
                 {
@@ -1377,7 +1377,7 @@
         },
         {
             "id": "tier1-kids",
-            "name": "KIDS",
+            "name": "Kids",
             "link": "https://uk.puma.com/uk/en/kids",
             "children": [
                 {
@@ -2028,7 +2028,7 @@
         },
         {
             "id": "tier1-sports",
-            "name": "SPORTS",
+            "name": "Sports",
             "link": "https://uk.puma.com/uk/en/sports",
             "children": [
                 {
