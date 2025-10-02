@@ -771,7 +771,7 @@
                 {
                     "id": "tier2-women-sale",
                     "name": "Sale",
-                    "link": null,
+                    "link": "https://uk.puma.com/uk/en/sale/women",
                     "children": [
                         {
                             "id": "tier3-heading-women-sale",
@@ -1204,7 +1204,7 @@
                 {
                     "id": "tier2-men-limited-edition-collabs",
                     "name": "Limited-Edition Collabs & Edits",
-                    "link": null,
+                    "link": "https://uk.puma.com/uk/en/collections/select",
                     "children": [
                         {
                             "id": "tier3-heading-men-pop-rap-collabs",
@@ -1341,7 +1341,7 @@
                 {
                     "id": "tier2-men-sale",
                     "name": "Sale",
-                    "link": null,
+                    "link": "https://uk.puma.com/uk/en/sale/men",
                     "children": [
                         {
                             "id": "tier3-heading-men-sale",
