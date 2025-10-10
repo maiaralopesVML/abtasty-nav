@@ -1552,24 +1552,24 @@
                                             "link": "https://uk.puma.com/uk/en/kids/girls/clothing/shorts?pref_ageGroup=Kids"
                                         }
                                     ]
-                                }
-                            ]
-                        },
-                        {
-                            "id": "tier3-heading-kids-8-16-accessories",
-                            "name": "KIDS' ACCESSORIES",
-                            "link": null,
-                            "isHeading": true,
-                            "children": [
-                                {
-                                    "id": "tier3-kids-8-16-boys-accessories",
-                                    "name": "Boys' Accessories",
-                                    "link": "https://uk.puma.com/uk/en/kids/boys/age-8-16-years?pref_productDivision=Accessories"
                                 },
                                 {
-                                    "id": "tier3-kids-8-16-girls-accessories",
-                                    "name": "Girls' Accessories",
-                                    "link": "https://uk.puma.com/uk/en/kids/shop-by-age/age-8-16-years?pref_productDivision=Accessories"
+                                    "id": "tier3-heading-kids-8-16-accessories",
+                                    "name": "KIDS' ACCESSORIES",
+                                    "link": null,
+                                    "isHeading": true,
+                                    "children": [
+                                        {
+                                            "id": "tier3-kids-8-16-boys-accessories",
+                                            "name": "Boys' Accessories",
+                                            "link": "https://uk.puma.com/uk/en/kids/boys/age-8-16-years?pref_productDivision=Accessories"
+                                        },
+                                        {
+                                            "id": "tier3-kids-8-16-girls-accessories",
+                                            "name": "Girls' Accessories",
+                                            "link": "https://uk.puma.com/uk/en/kids/shop-by-age/age-8-16-years?pref_productDivision=Accessories"
+                                        }
+                                    ]
                                 },
                                 {
                                     "id": "tier3-heading-kids-8-16-sale",
