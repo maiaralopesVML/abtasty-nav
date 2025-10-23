@@ -143,12 +143,12 @@
                                 },
                                 {
                                     "id": "tier3-skepta-collab",
-                                    "name": "PUMA X SKEPTA Capsule",
+                                    "name": "PUMA X SKEPTA",
                                     "link": "https://uk.puma.com/uk/en/collections/select/skepta"
                                 },
                                 {
                                     "id": "tier3-asap-rocky-collab",
-                                    "name": "A$AP ROCKY x PUMA Capsule",
+                                    "name": "A$AP ROCKY x PUMA",
                                     "link": "https://uk.puma.com/uk/en/asap-rocky"
                                 }
                             ]
@@ -160,23 +160,23 @@
                             "isHeading": true,
                             "children": [
                                 {
-                                    "id": "tier3-puma-x-guizio-capsule",
-                                    "name": "PUMA X GUIZIO Capsule",
+                                    "id": "tier3-puma-x-guizio",
+                                    "name": "PUMA X GUIZIO",
                                     "link": "https://uk.puma.com/uk/en/collections/select/puma-x-guizio"
                                 },
                                 {
-                                    "id": "tier3-puma-x-represent-capsule",
-                                    "name": "PUMA X REPRESENT Capsule",
+                                    "id": "tier3-puma-x-represent",
+                                    "name": "PUMA X REPRESENT",
                                     "link": "https://uk.puma.com/uk/en/collections/select/puma-x-represent"
                                 },
                                 {
-                                    "id": "tier3-puma-x-ripndip-capsule",
-                                    "name": "PUMA X RIPNDIP Capsule",
+                                    "id": "tier3-puma-x-ripndip",
+                                    "name": "PUMA X RIPNDIP",
                                     "link": "https://uk.puma.com/uk/en/collections/lifestyle-collaborations/puma-x-ripndip"
                                 },
                                 {
                                     "id": "tier3-kidsuper-studios-streetwear",
-                                    "name": "PUMA X KIDSUPER Styles",
+                                    "name": "PUMA X KIDSUPER",
                                     "link": "https://uk.puma.com/uk/en/collections/select/puma-x-kidsuper"
                                 }
                             ]
@@ -188,13 +188,13 @@
                             "isHeading": true,
                             "children": [
                                 {
-                                    "id": "tier3-puma-x-hello-kitty-styles",
-                                    "name": "PUMA X HELLO KITTY Styles",
+                                    "id": "tier3-puma-x-hello-kitty",
+                                    "name": "PUMA X HELLO KITTY",
                                     "link": "https://uk.puma.com/uk/en/collections/lifestyle-collaborations/puma-x-hello-kitty"
                                 },
                                 {
                                     "id": "tier3-hot-wheels-kidswear",
-                                    "name": "PUMA X HOT WHEELS Styles",
+                                    "name": "PUMA X HOT WHEELS",
                                     "link": "https://uk.puma.com/uk/en/collections/select/puma-x-hot-wheels"
                                 },
                                 {
@@ -682,17 +682,17 @@
                                 },
                                 {
                                     "id": "tier3-women-blackpink-rose",
-                                    "name": "PUMA X ROSÉ | KPop Styles",
+                                    "name": "PUMA X ROSÉ | KPop",
                                     "link": "https://uk.puma.com/uk/en/collections/lifestyle-collaborations/puma-x-rose"
                                 },
                                 {
                                     "id": "tier3-women-skepta",
-                                    "name": "PUMA X SKEPTA Capsule",
+                                    "name": "PUMA X SKEPTA",
                                     "link": "https://uk.puma.com/uk/en/collections/select/skepta"
                                 },
                                 {
                                     "id": "tier3-women-asap-rocky",
-                                    "name": "A$AP ROCKY x PUMA Capsule ",
+                                    "name": "A$AP ROCKY x PUMA ",
                                     "link": "https://uk.puma.com/uk/en/asap-rocky"
                                 }
                             ]
@@ -704,13 +704,13 @@
                             "isHeading": true,
                             "children": [
                                 {
-                                    "id": "tier3-puma-x-guizio-capsule",
-                                    "name": "PUMA X GUIZIO Capsule",
+                                    "id": "tier3-puma-x-guizio",
+                                    "name": "PUMA X GUIZIO",
                                     "link": "https://uk.puma.com/uk/en/collections/select/puma-x-guizio"
                                 },
                                 {
                                     "id": "tier3-kidsuper-studios-streetwear",
-                                    "name": "PUMA X KIDSUPER Styles",
+                                    "name": "PUMA X KIDSUPER",
                                     "link": "https://uk.puma.com/uk/en/collections/select/puma-x-kidsuper"
                                 }
                             ]
@@ -722,8 +722,8 @@
                             "isHeading": true,
                             "children": [
                                 {
-                                    "id": "tier3-puma-x-hello-kitty-styles",
-                                    "name": "PUMA X HELLO KITTY Styles",
+                                    "id": "tier3-puma-x-hello-kitty",
+                                    "name": "PUMA X HELLO KITTY",
                                     "link": "https://uk.puma.com/uk/en/collections/lifestyle-collaborations/puma-x-hello-kitty"
                                 },
                                 {
@@ -751,12 +751,12 @@
                                 },
                                 {
                                     "id": "tier3-women-mostro-spiked-soles",
-                                    "name": "Mostro | Y2K Styles",
+                                    "name": "Mostro | Y2K",
                                     "link": "https://uk.puma.com/uk/en/collections/select-collections/mostro"
                                 },
                                 {
                                     "id": "tier3-women-h-street-track-to-street",
-                                    "name": "H-Street | Y2K Styles",
+                                    "name": "H-Street | Y2K",
                                     "link": "https://uk.puma.com/uk/en/collections/select-collections/h-street"
                                 },
                                 {
@@ -774,7 +774,7 @@
                             "children": [
                                 {
                                     "id": "tier3-women-easy-rider-retro-runners",
-                                    "name": "Easy Rider | 70s Vibes",
+                                    "name": "Easy Rider",
                                     "link": "https://uk.puma.com/uk/en/collections/lifestyle/rider"
                                 },
                                 {
@@ -794,7 +794,7 @@
                                 },
                                 {
                                     "id": "tier3-women-inhale-trainers-edit",
-                                    "name": "Inhale Trainers | Y2K Styles",
+                                    "name": "Inhale Trainers | Y2K",
                                     "link": "https://uk.puma.com/uk/en/collections/lifestyle/inhale"
                                 }
                             ]
@@ -1285,12 +1285,12 @@
                                 },
                                 {
                                     "id": "tier3-men-skepta",
-                                    "name": "PUMA X SKEPTA Capsule",
+                                    "name": "PUMA X SKEPTA",
                                     "link": "https://uk.puma.com/uk/en/collections/select/skepta"
                                 },
                                 {
                                     "id": "tier3-men-asap-rocky",
-                                    "name": "A$AP ROCKY x PUMA Capsule",
+                                    "name": "A$AP ROCKY x PUMA",
                                     "link": "https://uk.puma.com/uk/en/asap-rocky?pref_gender=Mens%2CUnisex"
                                 }
                             ]
@@ -1302,18 +1302,18 @@
                             "isHeading": true,
                             "children": [
                                 {
-                                    "id": "tier3-puma-x-represent-capsule",
-                                    "name": "PUMA X REPRESENT Capsule",
+                                    "id": "tier3-puma-x-represent",
+                                    "name": "PUMA X REPRESENT",
                                     "link": "https://uk.puma.com/uk/en/collections/select/puma-x-represent"
                                 },
                                 {
-                                    "id": "tier3-puma-x-ripndip-capsule",
-                                    "name": "PUMA X RIPNDIP Capsule",
+                                    "id": "tier3-puma-x-ripndip",
+                                    "name": "PUMA X RIPNDIP",
                                     "link": "https://uk.puma.com/uk/en/collections/lifestyle-collaborations/puma-x-ripndip"
                                 },
                                 {
                                     "id": "tier3-men-kidsuper-studios",
-                                    "name": "PUMA X KIDSUPER Styles",
+                                    "name": "PUMA X KIDSUPER",
                                     "link": "https://uk.puma.com/uk/en/collections/select/puma-x-kidsuper?pref_gender=Mens%2CUnisex"
                                 }
                             ]
@@ -1326,7 +1326,7 @@
                             "children": [
                                 {
                                     "id": "tier3-men-hot-wheels-collab",
-                                    "name": "PUMA X HOT WHEELS Styles",
+                                    "name": "PUMA X HOT WHEELS",
                                     "link": "https://uk.puma.com/uk/en/collections/select/puma-x-hot-wheels"
                                 },
                                 {
@@ -1354,7 +1354,7 @@
                                 },
                                 {
                                     "id": "tier3-men-mostro-spiked-soles",
-                                    "name": "Mostro | Y2K Styles",
+                                    "name": "Mostro | Y2K",
                                     "link": "https://uk.puma.com/uk/en/collections/select-collections/mostro"
                                 },
                                 {
@@ -1364,7 +1364,7 @@
                                 },
                                 {
                                     "id": "tier3-men-h-street-track-to-street",
-                                    "name": "H-Street | Y2K Styles",
+                                    "name": "H-Street | Y2K",
                                     "link": "https://uk.puma.com/uk/en/collections/select-collections/h-street"
                                 }
                             ]
@@ -1377,7 +1377,7 @@
                             "children": [
                                 {
                                     "id": "tier3-men-easy-rider-retro-runners",
-                                    "name": "Easy Rider | 70s Vibes",
+                                    "name": "Easy Rider",
                                     "link": "https://uk.puma.com/uk/en/collections/lifestyle/rider"
                                 },
                                 {
@@ -1392,12 +1392,12 @@
                                 },
                                 {
                                     "id": "tier3-men-gv-special-court-shoes",
-                                    "name": "GV Special | 80s Casual Tennis",
+                                    "name": "GV Special | 80s Tennis",
                                     "link": "https://uk.puma.com/uk/en/collections/select-collections/gv-special"
                                 },
                                 {
                                     "id": "tier3-men-inhale-trainers-edit",
-                                    "name": "Inhale Trainers | Y2K Styles",
+                                    "name": "Inhale Trainers | Y2K",
                                     "link": "https://uk.puma.com/uk/en/collections/lifestyle/inhale"
                                 }
                             ]
@@ -1410,7 +1410,7 @@
                             "children": [
                                 {
                                     "id": "tier3-men-mmq-made-with-quality",
-                                    "name": "MMQ - Made with Quality Styles",
+                                    "name": "MMQ - Made with Quality",
                                     "link": "https://uk.puma.com/uk/en/collections/select-collections/mmq?offset=24"
                                 },
                                 {
@@ -1492,12 +1492,12 @@
                                 },
                                 {
                                     "id": "tier3-kids-8-16-hot-wheels-collab",
-                                    "name": "PUMA X HOT WHEELS Styles",
+                                    "name": "PUMA X HOT WHEELS",
                                     "link": "https://uk.puma.com/uk/en/collections/select/puma-x-hot-wheels"
                                 },
                                 {
-                                    "id": "tier3-puma-x-hello-kitty-styles",
-                                    "name": "PUMA X HELLO KITTY Styles",
+                                    "id": "tier3-puma-x-hello-kitty",
+                                    "name": "PUMA X HELLO KITTY",
                                     "link": "https://uk.puma.com/uk/en/collections/lifestyle-collaborations/puma-x-hello-kitty"
                                 }
                             ]
@@ -1705,12 +1705,12 @@
                                 },
                                 {
                                     "id": "tier3-kids-4-8-hot-wheels-collab",
-                                    "name": "PUMA X HOT WHEELS Styles",
+                                    "name": "PUMA X HOT WHEELS",
                                     "link": "https://uk.puma.com/uk/en/collections/select/puma-x-hot-wheels"
                                 },
                                 {
-                                    "id": "tier3-puma-x-hello-kitty-styles",
-                                    "name": "PUMA X HELLO KITTY Styles",
+                                    "id": "tier3-puma-x-hello-kitty",
+                                    "name": "PUMA X HELLO KITTY",
                                     "link": "https://uk.puma.com/uk/en/collections/lifestyle-collaborations/puma-x-hello-kitty"
                                 }
                             ]
@@ -1918,12 +1918,12 @@
                                 },
                                 {
                                     "id": "tier3-kids-0-4-hot-wheels-collab",
-                                    "name": "PUMA X HOT WHEELS Styles",
+                                    "name": "PUMA X HOT WHEELS",
                                     "link": "https://uk.puma.com/uk/en/collections/select/puma-x-hot-wheels"
                                 },
                                 {
-                                    "id": "tier3-puma-x-hello-kitty-styles",
-                                    "name": "PUMA X HELLO KITTY Styles",
+                                    "id": "tier3-puma-x-hello-kitty",
+                                    "name": "PUMA X HELLO KITTY",
                                     "link": "https://uk.puma.com/uk/en/collections/lifestyle-collaborations/puma-x-hello-kitty"
                                 }
                             ]
