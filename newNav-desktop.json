@@ -148,7 +148,7 @@
                                 },
                                 {
                                     "id": "tier3-asap-rocky-collab",
-                                    "name": "A$AP ROCKY X PUMA ",
+                                    "name": "A$AP ROCKY X PUMA",
                                     "link": "https://uk.puma.com/uk/en/asap-rocky"
                                 }
                             ]
@@ -400,34 +400,34 @@
                                     "id": "tier3-women-coats-jackets",
                                     "name": "Coats & Jackets",
                                     "link": "https://uk.puma.com/uk/en/women/clothing/coats-and-jackets"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "tier3-heading-women-bottoms",
+                            "name": "BOTTOMS",
+                            "link": null,
+                            "isHeading": true,
+                            "children": [
+                                {
+                                    "id": "tier3-women-trousers-joggers",
+                                    "name": "Trousers & Joggers",
+                                    "link": "https://uk.puma.com/uk/en/women/clothing/trousers-and-joggers"
                                 },
                                 {
-                                    "id": "tier3-heading-women-bottoms",
-                                    "name": "BOTTOMS",
-                                    "link": null,
-                                    "isHeading": true,
-                                    "children": [
-                                        {
-                                            "id": "tier3-women-trousers-joggers",
-                                            "name": "Trousers & Joggers",
-                                            "link": "https://uk.puma.com/uk/en/women/clothing/trousers-and-joggers"
-                                        },
-                                        {
-                                            "id": "tier3-women-leggings",
-                                            "name": "Leggings",
-                                            "link": "https://uk.puma.com/uk/en/women/clothing/leggings"
-                                        },
-                                        {
-                                            "id": "tier3-women-shorts",
-                                            "name": "Shorts",
-                                            "link": "https://uk.puma.com/uk/en/women/clothing/shorts"
-                                        },
-                                        {
-                                            "id": "tier3-women-skirts-dresses",
-                                            "name": "Skirts & Dresses",
-                                            "link": "https://uk.puma.com/uk/en/women/clothing/dresses-and-skirts"
-                                        }
-                                    ]
+                                    "id": "tier3-women-leggings",
+                                    "name": "Leggings",
+                                    "link": "https://uk.puma.com/uk/en/women/clothing/leggings"
+                                },
+                                {
+                                    "id": "tier3-women-shorts",
+                                    "name": "Shorts",
+                                    "link": "https://uk.puma.com/uk/en/women/clothing/shorts"
+                                },
+                                {
+                                    "id": "tier3-women-skirts-dresses",
+                                    "name": "Skirts & Dresses",
+                                    "link": "https://uk.puma.com/uk/en/women/clothing/dresses-and-skirts"
                                 }
                             ]
                         },
@@ -456,34 +456,34 @@
                                     "id": "tier3-women-dresses-skirts",
                                     "name": "Dresses & Skirts",
                                     "link": "https://uk.puma.com/uk/en/women/clothing/dresses-and-skirts"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "tier3-heading-women-underwear-swimwear",
+                            "name": "UNDERWEAR & SWIMWEAR",
+                            "link": null,
+                            "isHeading": true,
+                            "children": [
+                                {
+                                    "id": "tier3-women-underwear",
+                                    "name": "Underwear",
+                                    "link": "https://uk.puma.com/uk/en/women/clothing/underwear"
                                 },
                                 {
-                                    "id": "tier3-heading-women-underwear-swimwear",
-                                    "name": "UNDERWEAR & SWIMWEAR",
-                                    "link": null,
-                                    "isHeading": true,
-                                    "children": [
-                                        {
-                                            "id": "tier3-women-underwear",
-                                            "name": "Underwear",
-                                            "link": "https://uk.puma.com/uk/en/women/clothing/underwear"
-                                        },
-                                        {
-                                            "id": "tier3-women-socks",
-                                            "name": "Socks",
-                                            "link": "https://uk.puma.com/uk/en/women/accessories/socks"
-                                        },
-                                        {
-                                            "id": "tier3-women-sports-bras-underwear",
-                                            "name": "Sports Bras",
-                                            "link": "https://uk.puma.com/uk/en/women/clothing/sports-bras"
-                                        },
-                                        {
-                                            "id": "tier3-women-swimwear",
-                                            "name": "Swimwear",
-                                            "link": "https://uk.puma.com/uk/en/women/clothing/swimwear"
-                                        }
-                                    ]
+                                    "id": "tier3-women-socks",
+                                    "name": "Socks",
+                                    "link": "https://uk.puma.com/uk/en/women/accessories/socks"
+                                },
+                                {
+                                    "id": "tier3-women-sports-bras-underwear",
+                                    "name": "Sports Bras",
+                                    "link": "https://uk.puma.com/uk/en/women/clothing/sports-bras"
+                                },
+                                {
+                                    "id": "tier3-women-swimwear",
+                                    "name": "Swimwear",
+                                    "link": "https://uk.puma.com/uk/en/women/clothing/swimwear"
                                 }
                             ]
                         },
@@ -694,42 +694,42 @@
                                     "id": "tier3-women-asap-rocky",
                                     "name": "A$AP ROCKY X PUMA ",
                                     "link": "https://uk.puma.com/uk/en/asap-rocky"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "tier3-heading-women-fashion-collabs",
+                            "name": "FASHION COLLABS",
+                            "link": null,
+                            "isHeading": true,
+                            "children": [
+                                {
+                                    "id": "tier3-puma-x-guizio",
+                                    "name": "PUMA X GUIZIO",
+                                    "link": "https://uk.puma.com/uk/en/collections/select/puma-x-guizio"
                                 },
                                 {
-                                    "id": "tier3-heading-women-fashion-collabs",
-                                    "name": "FASHION COLLABS",
-                                    "link": null,
-                                    "isHeading": true,
-                                    "children": [
-                                        {
-                                            "id": "tier3-puma-x-guizio",
-                                            "name": "PUMA X GUIZIO",
-                                            "link": "https://uk.puma.com/uk/en/collections/select/puma-x-guizio"
-                                        },
-                                        {
-                                            "id": "tier3-kidsuper-studios-streetwear",
-                                            "name": "PUMA X KIDSUPER",
-                                            "link": "https://uk.puma.com/uk/en/collections/select/puma-x-kidsuper"
-                                        }
-                                    ]
+                                    "id": "tier3-kidsuper-studios-streetwear",
+                                    "name": "PUMA X KIDSUPER",
+                                    "link": "https://uk.puma.com/uk/en/collections/select/puma-x-kidsuper"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "tier3-heading-women-brand-sports-collabs",
+                            "name": "BRAND & SPORTS COLLABS",
+                            "link": null,
+                            "isHeading": true,
+                            "children": [
+                                {
+                                    "id": "tier3-puma-x-hello-kitty",
+                                    "name": "PUMA X HELLO KITTY",
+                                    "link": "https://uk.puma.com/uk/en/collections/lifestyle-collaborations/puma-x-hello-kitty"
                                 },
                                 {
-                                    "id": "tier3-heading-women-brand-sports-collabs",
-                                    "name": "BRAND & SPORTS COLLABS",
-                                    "link": null,
-                                    "isHeading": true,
-                                    "children": [
-                                        {
-                                            "id": "tier3-puma-x-hello-kitty",
-                                            "name": "PUMA X HELLO KITTY",
-                                            "link": "https://uk.puma.com/uk/en/collections/lifestyle-collaborations/puma-x-hello-kitty"
-                                        },
-                                        {
-                                            "id": "tier3-women-neymar-jr",
-                                            "name": "PUMA X NEYMAR JR | Football",
-                                            "link": "https://uk.puma.com/uk/en/sports/football/neymar-jr"
-                                        }
-                                    ]
+                                    "id": "tier3-women-neymar-jr",
+                                    "name": "PUMA X NEYMAR JR | Football",
+                                    "link": "https://uk.puma.com/uk/en/sports/football/neymar-jr"
                                 }
                             ]
                         },
@@ -746,7 +746,7 @@
                                 },
                                 {
                                     "id": "tier3-women-palermo-shoes",
-                                    "name": "Palermo Trainers",
+                                    "name": "Palermo Trainers ",
                                     "link": "https://uk.puma.com/uk/en/collections/lifestyle-collections/palermo"
                                 },
                                 {
@@ -763,39 +763,39 @@
                                     "id": "tier3-women-vs1-metallics",
                                     "name": "V-S1 Metallics",
                                     "link": "https://uk.puma.com/uk/en/collections/select-collections/v-s1"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "tier3-heading-women-shoes-archive-reimagined",
+                            "name": "SHOES ARCHIVE REIMAGINED",
+                            "link": null,
+                            "isHeading": true,
+                            "children": [
+                                {
+                                    "id": "tier3-women-easy-rider-retro-runners",
+                                    "name": "Easy Rider",
+                                    "link": "https://uk.puma.com/uk/en/collections/lifestyle/rider"
                                 },
                                 {
-                                    "id": "tier3-heading-women-shoes-archive-reimagined",
-                                    "name": "SHOES ARCHIVE REIMAGINED",
-                                    "link": null,
-                                    "isHeading": true,
-                                    "children": [
-                                        {
-                                            "id": "tier3-women-easy-rider-retro-runners",
-                                            "name": "Easy Rider",
-                                            "link": "https://uk.puma.com/uk/en/collections/lifestyle/rider"
-                                        },
-                                        {
-                                            "id": "tier3-women-suede-skate-sneakers",
-                                            "name": "Suede Skate Shoes",
-                                            "link": "https://uk.puma.com/uk/en/collections/lifestyle/suede"
-                                        },
-                                        {
-                                            "id": "tier3-women-king-indoor-trainers",
-                                            "name": "King Indoor Trainers",
-                                            "link": "https://uk.puma.com/uk/en/collections/lifestyle/king"
-                                        },
-                                        {
-                                            "id": "tier3-women-gv-special-court-shoes",
-                                            "name": "GV Special | 80s Tennis",
-                                            "link": "https://uk.puma.com/uk/en/collections/select-collections/gv-special"
-                                        },
-                                        {
-                                            "id": "tier3-women-inhale-trainers-edit",
-                                            "name": "Inhale Trainers | Y2K",
-                                            "link": "https://uk.puma.com/uk/en/collections/lifestyle/inhale"
-                                        }
-                                    ]
+                                    "id": "tier3-women-suede-skate-sneakers",
+                                    "name": "Suede Skate Shoes",
+                                    "link": "https://uk.puma.com/uk/en/collections/lifestyle/suede"
+                                },
+                                {
+                                    "id": "tier3-women-king-indoor-trainers",
+                                    "name": "King Indoor Trainers",
+                                    "link": "https://uk.puma.com/uk/en/collections/lifestyle/king"
+                                },
+                                {
+                                    "id": "tier3-women-gv-special-court-shoes",
+                                    "name": "GV Special | 80s Tennis",
+                                    "link": "https://uk.puma.com/uk/en/collections/select-collections/gv-special"
+                                },
+                                {
+                                    "id": "tier3-women-inhale-trainers-edit",
+                                    "name": "Inhale Trainers | Y2K",
+                                    "link": "https://uk.puma.com/uk/en/collections/lifestyle/inhale"
                                 }
                             ]
                         },
@@ -1008,7 +1008,7 @@
                                 },
                                 {
                                     "id": "tier3-men-t7-stripe-edit",
-                                    "name": "The T7 Stripe Edit",
+                                    "name": "T7 Tracksuits",
                                     "link": "https://uk.puma.com/uk/en/collections/lifestyle/t7?pref_gender=Mens%2CUnisex&pref_ageGroup=Adults"
                                 },
                                 {
@@ -1038,24 +1038,24 @@
                                     "id": "tier3-men-coats-jackets",
                                     "name": "Coats & Jackets",
                                     "link": "https://uk.puma.com/uk/en/men/clothing/coats-and-jackets"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "tier3-heading-men-bottoms",
+                            "name": "BOTTOMS",
+                            "link": null,
+                            "isHeading": true,
+                            "children": [
+                                {
+                                    "id": "tier3-men-trousers-joggers",
+                                    "name": "Trousers & Joggers",
+                                    "link": "https://uk.puma.com/uk/en/men/clothing/trousers-and-joggers"
                                 },
                                 {
-                                    "id": "tier3-heading-men-bottoms",
-                                    "name": "BOTTOMS",
-                                    "link": null,
-                                    "isHeading": true,
-                                    "children": [
-                                        {
-                                            "id": "tier3-men-trousers-joggers",
-                                            "name": "Trousers & Joggers",
-                                            "link": "https://uk.puma.com/uk/en/men/clothing/trousers-and-joggers"
-                                        },
-                                        {
-                                            "id": "tier3-men-shorts",
-                                            "name": "Shorts",
-                                            "link": "https://uk.puma.com/uk/en/men/clothing/shorts"
-                                        }
-                                    ]
+                                    "id": "tier3-men-shorts",
+                                    "name": "Shorts",
+                                    "link": "https://uk.puma.com/uk/en/men/clothing/shorts"
                                 }
                             ]
                         },
@@ -1079,29 +1079,29 @@
                                     "id": "tier3-men-wardrobe-essentials",
                                     "name": "Wardrobe Essentials",
                                     "link": "https://uk.puma.com/uk/en/men/essentials"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "tier3-heading-men-underwear-swimwear",
+                            "name": "UNDERWEAR & SWIMWEAR",
+                            "link": null,
+                            "isHeading": true,
+                            "children": [
+                                {
+                                    "id": "tier3-men-underwear",
+                                    "name": "Underwear",
+                                    "link": "https://uk.puma.com/uk/en/men/clothing/underwear"
                                 },
                                 {
-                                    "id": "tier3-heading-men-underwear-swimwear",
-                                    "name": "UNDERWEAR & SWIMWEAR",
-                                    "link": null,
-                                    "isHeading": true,
-                                    "children": [
-                                        {
-                                            "id": "tier3-men-underwear",
-                                            "name": "Underwear",
-                                            "link": "https://uk.puma.com/uk/en/men/clothing/underwear"
-                                        },
-                                        {
-                                            "id": "tier3-men-socks",
-                                            "name": "Socks",
-                                            "link": "https://uk.puma.com/uk/en/men/accessories/socks"
-                                        },
-                                        {
-                                            "id": "tier3-men-swimwear",
-                                            "name": "Swimwear",
-                                            "link": "https://uk.puma.com/uk/en/men/clothing/swimwear"
-                                        }
-                                    ]
+                                    "id": "tier3-men-socks",
+                                    "name": "Socks",
+                                    "link": "https://uk.puma.com/uk/en/men/accessories/socks"
+                                },
+                                {
+                                    "id": "tier3-men-swimwear",
+                                    "name": "Swimwear",
+                                    "link": "https://uk.puma.com/uk/en/men/clothing/swimwear"
                                 }
                             ]
                         },
@@ -1292,47 +1292,47 @@
                                     "id": "tier3-men-asap-rocky",
                                     "name": "A$AP ROCKY X PUMA",
                                     "link": "https://uk.puma.com/uk/en/asap-rocky?pref_gender=Mens%2CUnisex"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "tier3-heading-men-fashion-collabs",
+                            "name": "FASHION COLLABS",
+                            "link": null,
+                            "isHeading": true,
+                            "children": [
+                                {
+                                    "id": "tier3-puma-x-represent",
+                                    "name": "PUMA X REPRESENT",
+                                    "link": "https://uk.puma.com/uk/en/collections/select/puma-x-represent"
                                 },
                                 {
-                                    "id": "tier3-heading-women-fashion-collabs",
-                                    "name": "FASHION COLLABS",
-                                    "link": null,
-                                    "isHeading": true,
-                                    "children": [
-                                        {
-                                            "id": "tier3-puma-x-represent",
-                                            "name": "PUMA X REPRESENT",
-                                            "link": "https://uk.puma.com/uk/en/collections/select/puma-x-represent"
-                                        },
-                                        {
-                                            "id": "tier3-puma-x-ripndip",
-                                            "name": "PUMA X RIPNDIP",
-                                            "link": "https://uk.puma.com/uk/en/collections/lifestyle-collaborations/puma-x-ripndip"
-                                        },
-                                        {
-                                            "id": "tier3-kidsuper-studios-streetwear",
-                                            "name": "PUMA X KIDSUPER",
-                                            "link": "https://uk.puma.com/uk/en/collections/select/puma-x-kidsuper"
-                                        }
-                                    ]
+                                    "id": "tier3-puma-x-ripndip",
+                                    "name": "PUMA X RIPNDIP",
+                                    "link": "https://uk.puma.com/uk/en/collections/lifestyle-collaborations/puma-x-ripndip"
                                 },
                                 {
-                                    "id": "tier3-heading-men-brand-sports-collabs",
-                                    "name": "BRAND & SPORTS COLLABS",
-                                    "link": null,
-                                    "isHeading": true,
-                                    "children": [
-                                        {
-                                            "id": "tier3-men-hot-wheels-collab",
-                                            "name": "PUMA X HOT WHEELS",
-                                            "link": "https://uk.puma.com/uk/en/collections/select/puma-x-hot-wheels"
-                                        },
-                                        {
-                                            "id": "tier3-men-neymar-jr",
-                                            "name": "PUMA X NEYMAR JR | Football",
-                                            "link": "https://uk.puma.com/uk/en/sports/football/neymar-jr"
-                                        }
-                                    ]
+                                    "id": "tier3-men-kidsuper-studios",
+                                    "name": "PUMA X KIDSUPER",
+                                    "link": "https://uk.puma.com/uk/en/collections/select/puma-x-kidsuper?pref_gender=Mens%2CUnisex"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "tier3-heading-men-brand-sports-collabs",
+                            "name": "BRAND & SPORTS COLLABS",
+                            "link": null,
+                            "isHeading": true,
+                            "children": [
+                                {
+                                    "id": "tier3-men-hot-wheels-collab",
+                                    "name": "PUMA X HOT WHEELS",
+                                    "link": "https://uk.puma.com/uk/en/collections/select/puma-x-hot-wheels"
+                                },
+                                {
+                                    "id": "tier3-men-neymar-jr",
+                                    "name": "PUMA X NEYMAR JR | Football",
+                                    "link": "https://uk.puma.com/uk/en/sports/football/neymar-jr"
                                 }
                             ]
                         },
@@ -1344,12 +1344,12 @@
                             "children": [
                                 {
                                     "id": "tier3-men-speedcat-shoes",
-                                    "name": "Speedcat Shoes Edit",
+                                    "name": "Speedcat Collection",
                                     "link": "https://uk.puma.com/uk/en/collections/select-collections/speedcat"
                                 },
                                 {
                                     "id": "tier3-men-palermo-shoes",
-                                    "name": "Palermo Shoes Edit",
+                                    "name": "Palermo Trainers",
                                     "link": "https://uk.puma.com/uk/en/collections/lifestyle-collections/palermo"
                                 },
                                 {
@@ -1366,39 +1366,39 @@
                                     "id": "tier3-men-h-street-track-to-street",
                                     "name": "H-Street | Y2K",
                                     "link": "https://uk.puma.com/uk/en/collections/select-collections/h-street"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "tier3-heading-men-shoes-archive-reimagined",
+                            "name": "SHOES ARCHIVE REIMAGINED",
+                            "link": null,
+                            "isHeading": true,
+                            "children": [
+                                {
+                                    "id": "tier3-men-easy-rider-retro-runners",
+                                    "name": "Easy Rider",
+                                    "link": "https://uk.puma.com/uk/en/collections/lifestyle/rider"
                                 },
                                 {
-                                    "id": "tier3-heading-men-shoes-archive-reimagined",
-                                    "name": "SHOES ARCHIVE REIMAGINED",
-                                    "link": null,
-                                    "isHeading": true,
-                                    "children": [
-                                        {
-                                            "id": "tier3-men-easy-rider-retro-runners",
-                                            "name": "Easy Rider",
-                                            "link": "https://uk.puma.com/uk/en/collections/lifestyle/rider"
-                                        },
-                                        {
-                                            "id": "tier3-men-suede-skate-sneakers",
-                                            "name": "Suede Skate Shoes",
-                                            "link": "https://uk.puma.com/uk/en/collections/lifestyle/suede"
-                                        },
-                                        {
-                                            "id": "tier3-men-king-indoor-trainers",
-                                            "name": "King Indoor Trainers",
-                                            "link": "https://uk.puma.com/uk/en/collections/lifestyle/king"
-                                        },
-                                        {
-                                            "id": "tier3-men-gv-special-court-shoes",
-                                            "name": "GV Special | 80s Tennis",
-                                            "link": "https://uk.puma.com/uk/en/collections/select-collections/gv-special"
-                                        },
-                                        {
-                                            "id": "tier3-men-inhale-trainers-edit",
-                                            "name": "Inhale Trainers | Y2K",
-                                            "link": "https://uk.puma.com/uk/en/collections/lifestyle/inhale"
-                                        }
-                                    ]
+                                    "id": "tier3-men-suede-skate-sneakers",
+                                    "name": "Suede Skate Shoes",
+                                    "link": "https://uk.puma.com/uk/en/collections/lifestyle/suede"
+                                },
+                                {
+                                    "id": "tier3-men-king-indoor-trainers",
+                                    "name": "King Indoor Trainers",
+                                    "link": "https://uk.puma.com/uk/en/collections/lifestyle/king"
+                                },
+                                {
+                                    "id": "tier3-men-gv-special-court-shoes",
+                                    "name": "GV Special | 80s Tennis",
+                                    "link": "https://uk.puma.com/uk/en/collections/select-collections/gv-special"
+                                },
+                                {
+                                    "id": "tier3-men-inhale-trainers-edit",
+                                    "name": "Inhale Trainers | Y2K",
+                                    "link": "https://uk.puma.com/uk/en/collections/lifestyle/inhale"
                                 }
                             ]
                         },
@@ -1499,47 +1499,6 @@
                                     "id": "tier3-puma-x-hello-kitty",
                                     "name": "PUMA X HELLO KITTY",
                                     "link": "https://uk.puma.com/uk/en/collections/lifestyle-collaborations/puma-x-hello-kitty"
-                                },
-                                {
-                                    "id": "tier3-heading-kids-8-16-accessories",
-                                    "name": "KIDS' ACCESSORIES",
-                                    "link": null,
-                                    "isHeading": true,
-                                    "children": [
-                                        {
-                                            "id": "tier3-kids-8-16-boys-accessories",
-                                            "name": "Boys' Accessories",
-                                            "link": "https://uk.puma.com/uk/en/kids/boys/age-8-16-years?pref_productDivision=Accessories"
-                                        },
-                                        {
-                                            "id": "tier3-kids-8-16-girls-accessories",
-                                            "name": "Girls' Accessories",
-                                            "link": "https://uk.puma.com/uk/en/kids/shop-by-age/age-8-16-years?pref_productDivision=Accessories"
-                                        }
-                                    ]
-                                },
-                                {
-                                    "id": "tier3-heading-kids-8-16-sale",
-                                    "name": "SALE",
-                                    "link": "https://uk.puma.com/uk/en/sale/kids?pref_ageGroup=Kids",
-                                    "isHeading": true,
-                                    "children": [
-                                        {
-                                            "id": "tier3-kids-8-16-sale-footwear",
-                                            "name": "Sale Kids' Footwear",
-                                            "link": "https://uk.puma.com/uk/en/sale/kids/footwear?pref_ageGroup=Kids"
-                                        },
-                                        {
-                                            "id": "tier3-kids-8-16-sale-boys-clothing",
-                                            "name": "Sale Boys' Clothing",
-                                            "link": "https://uk.puma.com/uk/en/sale/kids/clothing?pref_ageGroup=Kids&pref_gender=Boys%2CUnisex"
-                                        },
-                                        {
-                                            "id": "tier3-kids-8-16-sale-girls-clothing",
-                                            "name": "Sale Girls' Clothing",
-                                            "link": "https://uk.puma.com/uk/en/sale/kids/clothing?pref_ageGroup=Kids&pref_gender=Unisex%2CGirls"
-                                        }
-                                    ]
                                 }
                             ]
                         },
@@ -1568,44 +1527,44 @@
                                     "id": "tier3-kids-8-16-boys-all-footwear",
                                     "name": "All Boys' Footwear",
                                     "link": "https://uk.puma.com/uk/en/kids/boys/age-8-16-years?pref_productDivision=Footwear"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "tier3-heading-kids-8-16-boys-clothing",
+                            "name": "BOYS' CLOTHING",
+                            "link": "https://uk.puma.com/uk/en/kids/boys/age-8-16-years?pref_productDivision=Clothing",
+                            "isHeading": true,
+                            "children": [
+                                {
+                                    "id": "tier3-kids-8-16-boys-coats-jackets",
+                                    "name": "Coats & Jackets",
+                                    "link": "https://uk.puma.com/uk/en/kids/boys/clothing/coats-and-jackets?pref_ageGroup=Kids"
                                 },
                                 {
-                                    "id": "tier3-heading-kids-8-16-boys-clothing",
-                                    "name": "BOYS' CLOTHING",
-                                    "link": "https://uk.puma.com/uk/en/kids/boys/age-8-16-years?pref_productDivision=Clothing",
-                                    "isHeading": true,
-                                    "children": [
-                                        {
-                                            "id": "tier3-kids-8-16-boys-coats-jackets",
-                                            "name": "Coats & Jackets",
-                                            "link": "https://uk.puma.com/uk/en/kids/boys/clothing/coats-and-jackets?pref_ageGroup=Kids"
-                                        },
-                                        {
-                                            "id": "tier3-kids-8-16-boys-hoodies-sweatshirts",
-                                            "name": "Hoodies & Sweatshirts",
-                                            "link": "https://uk.puma.com/uk/en/kids/boys/clothing/hoodies-and-sweatshirts?pref_ageGroup=Kids"
-                                        },
-                                        {
-                                            "id": "tier3-kids-8-16-boys-tracksuits",
-                                            "name": "Tracksuits",
-                                            "link": "https://uk.puma.com/uk/en/kids/boys/clothing/tracksuits?pref_ageGroup=Kids"
-                                        },
-                                        {
-                                            "id": "tier3-kids-8-16-boys-joggers",
-                                            "name": "Joggers",
-                                            "link": "https://uk.puma.com/uk/en/kids/boys/clothing/joggers?pref_ageGroup=Kids"
-                                        },
-                                        {
-                                            "id": "tier3-kids-8-16-boys-tshirts",
-                                            "name": "T-Shirts",
-                                            "link": "https://uk.puma.com/uk/en/kids/boys/clothing/t-shirts?pref_ageGroup=Kids"
-                                        },
-                                        {
-                                            "id": "tier3-kids-8-16-boys-shorts",
-                                            "name": "Shorts",
-                                            "link": "https://uk.puma.com/uk/en/kids/boys/clothing/shorts?pref_ageGroup=Kids"
-                                        }
-                                    ]
+                                    "id": "tier3-kids-8-16-boys-hoodies-sweatshirts",
+                                    "name": "Hoodies & Sweatshirts",
+                                    "link": "https://uk.puma.com/uk/en/kids/boys/clothing/hoodies-and-sweatshirts?pref_ageGroup=Kids"
+                                },
+                                {
+                                    "id": "tier3-kids-8-16-boys-tracksuits",
+                                    "name": "Tracksuits",
+                                    "link": "https://uk.puma.com/uk/en/kids/boys/clothing/tracksuits?pref_ageGroup=Kids"
+                                },
+                                {
+                                    "id": "tier3-kids-8-16-boys-joggers",
+                                    "name": "Joggers",
+                                    "link": "https://uk.puma.com/uk/en/kids/boys/clothing/joggers?pref_ageGroup=Kids"
+                                },
+                                {
+                                    "id": "tier3-kids-8-16-boys-tshirts",
+                                    "name": "T-Shirts",
+                                    "link": "https://uk.puma.com/uk/en/kids/boys/clothing/t-shirts?pref_ageGroup=Kids"
+                                },
+                                {
+                                    "id": "tier3-kids-8-16-boys-shorts",
+                                    "name": "Shorts",
+                                    "link": "https://uk.puma.com/uk/en/kids/boys/clothing/shorts?pref_ageGroup=Kids"
                                 }
                             ]
                         },
@@ -1634,49 +1593,90 @@
                                     "id": "tier3-kids-8-16-girls-all-shoes",
                                     "name": "All Girls' Footwear",
                                     "link": "https://uk.puma.com/uk/en/kids/shop-by-age/age-8-16-years?pref_productDivision=Footwear"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "tier3-heading-kids-8-16-girls-clothing",
+                            "name": "GIRLS' CLOTHING",
+                            "link": "https://uk.puma.com/uk/en/kids/shop-by-age/age-8-16-years?pref_productDivision=Clothing",
+                            "isHeading": true,
+                            "children": [
+                                {
+                                    "id": "tier3-kids-8-16-girls-coats-jackets",
+                                    "name": "Coats & Jackets",
+                                    "link": "https://uk.puma.com/uk/en/kids/girls/clothing/coats-and-jackets?pref_ageGroup=Kids"
                                 },
                                 {
-                                    "id": "tier3-heading-kids-8-16-girls-clothing",
-                                    "name": "GIRLS' CLOTHING",
-                                    "link": "https://uk.puma.com/uk/en/kids/shop-by-age/age-8-16-years?pref_productDivision=Clothing",
-                                    "isHeading": true,
-                                    "children": [
-                                        {
-                                            "id": "tier3-kids-8-16-girls-coats-jackets",
-                                            "name": "Coats & Jackets",
-                                            "link": "https://uk.puma.com/uk/en/kids/girls/clothing/coats-and-jackets?pref_ageGroup=Kids"
-                                        },
-                                        {
-                                            "id": "tier3-kids-8-16-girls-hoodies-sweatshirts",
-                                            "name": "Hoodies & Sweatshirts",
-                                            "link": "https://uk.puma.com/uk/en/kids/girls/clothing/hoodies-and-sweatshirts?pref_ageGroup=Kids"
-                                        },
-                                        {
-                                            "id": "tier3-kids-8-16-girls-leggings-joggers",
-                                            "name": "Leggings & Joggers",
-                                            "link": "https://uk.puma.com/uk/en/kids/girls/clothing/leggings-and-joggers?pref_ageGroup=Kids"
-                                        },
-                                        {
-                                            "id": "tier3-kids-8-16-girls-matching-sets",
-                                            "name": "Matching Sets",
-                                            "link": "https://uk.puma.com/uk/en/kids/girls/clothing/matching-sets?pref_ageGroup=Kids"
-                                        },
-                                        {
-                                            "id": "tier3-kids-8-16-girls-tshirts",
-                                            "name": "T-Shirts",
-                                            "link": "https://uk.puma.com/uk/en/kids/girls/clothing/t-shirts-and-tops?pref_ageGroup=Kids"
-                                        },
-                                        {
-                                            "id": "tier3-kids-8-16-girls-dresses",
-                                            "name": "Dresses",
-                                            "link": "https://uk.puma.com/uk/en/kids/girls/clothing/dresses?pref_ageGroup=Kids"
-                                        },
-                                        {
-                                            "id": "tier3-kids-8-16-girls-shorts",
-                                            "name": "Shorts",
-                                            "link": "https://uk.puma.com/uk/en/kids/girls/clothing/shorts?pref_ageGroup=Kids"
-                                        }
-                                    ]
+                                    "id": "tier3-kids-8-16-girls-hoodies-sweatshirts",
+                                    "name": "Hoodies & Sweatshirts",
+                                    "link": "https://uk.puma.com/uk/en/kids/girls/clothing/hoodies-and-sweatshirts?pref_ageGroup=Kids"
+                                },
+                                {
+                                    "id": "tier3-kids-8-16-girls-leggings-joggers",
+                                    "name": "Leggings & Joggers",
+                                    "link": "https://uk.puma.com/uk/en/kids/girls/clothing/leggings-and-joggers?pref_ageGroup=Kids"
+                                },
+                                {
+                                    "id": "tier3-kids-8-16-girls-matching-sets",
+                                    "name": "Matching Sets",
+                                    "link": "https://uk.puma.com/uk/en/kids/girls/clothing/matching-sets?pref_ageGroup=Kids"
+                                },
+                                {
+                                    "id": "tier3-kids-8-16-girls-tshirts",
+                                    "name": "T-Shirts",
+                                    "link": "https://uk.puma.com/uk/en/kids/girls/clothing/t-shirts-and-tops?pref_ageGroup=Kids"
+                                },
+                                {
+                                    "id": "tier3-kids-8-16-girls-dresses",
+                                    "name": "Dresses",
+                                    "link": "https://uk.puma.com/uk/en/kids/girls/clothing/dresses?pref_ageGroup=Kids"
+                                },
+                                {
+                                    "id": "tier3-kids-8-16-girls-shorts",
+                                    "name": "Shorts",
+                                    "link": "https://uk.puma.com/uk/en/kids/girls/clothing/shorts?pref_ageGroup=Kids"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "tier3-heading-kids-8-16-accessories",
+                            "name": "KIDS' ACCESSORIES",
+                            "link": null,
+                            "isHeading": true,
+                            "children": [
+                                {
+                                    "id": "tier3-kids-8-16-boys-accessories",
+                                    "name": "Boys' Accessories",
+                                    "link": "https://uk.puma.com/uk/en/kids/boys/age-8-16-years?pref_productDivision=Accessories"
+                                },
+                                {
+                                    "id": "tier3-kids-8-16-girls-accessories",
+                                    "name": "Girls' Accessories",
+                                    "link": "https://uk.puma.com/uk/en/kids/shop-by-age/age-8-16-years?pref_productDivision=Accessories"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "tier3-heading-kids-8-16-sale",
+                            "name": "SALE",
+                            "link": "https://uk.puma.com/uk/en/sale/kids?pref_ageGroup=Kids",
+                            "isHeading": true,
+                            "children": [
+                                {
+                                    "id": "tier3-kids-8-16-sale-footwear",
+                                    "name": "Sale Kids' Footwear",
+                                    "link": "https://uk.puma.com/uk/en/sale/kids/footwear?pref_ageGroup=Kids"
+                                },
+                                {
+                                    "id": "tier3-kids-8-16-sale-boys-clothing",
+                                    "name": "Sale Boys' Clothing",
+                                    "link": "https://uk.puma.com/uk/en/sale/kids/clothing?pref_ageGroup=Kids&pref_gender=Boys%2CUnisex"
+                                },
+                                {
+                                    "id": "tier3-kids-8-16-sale-girls-clothing",
+                                    "name": "Sale Girls' Clothing",
+                                    "link": "https://uk.puma.com/uk/en/sale/kids/clothing?pref_ageGroup=Kids&pref_gender=Unisex%2CGirls"
                                 }
                             ]
                         }
@@ -1712,47 +1712,6 @@
                                     "id": "tier3-puma-x-hello-kitty",
                                     "name": "PUMA X HELLO KITTY",
                                     "link": "https://uk.puma.com/uk/en/collections/lifestyle-collaborations/puma-x-hello-kitty"
-                                },
-                                {
-                                    "id": "tier3-heading-kids-4-8-accessories",
-                                    "name": "KIDS' ACCESSORIES",
-                                    "link": null,
-                                    "isHeading": true,
-                                    "children": [
-                                        {
-                                            "id": "tier3-kids-4-8-boys-accessories",
-                                            "name": "Boys' Accessories",
-                                            "link": "https://uk.puma.com/uk/en/kids/boys/age-4-8-years?pref_productDivision=Accessories"
-                                        },
-                                        {
-                                            "id": "tier3-kids-4-8-girls-accessories",
-                                            "name": "Girls' Accessories",
-                                            "link": "https://uk.puma.com/uk/en/kids/shop-by-age/age-4-8-years?pref_productDivision=Accessories"
-                                        }
-                                    ]
-                                },
-                                {
-                                    "id": "tier3-heading-kids-4-8-sale",
-                                    "name": "SALE",
-                                    "link": "https://uk.puma.com/uk/en/sale/kids?pref_ageGroup=Kids",
-                                    "isHeading": true,
-                                    "children": [
-                                        {
-                                            "id": "tier3-kids-4-8-sale-footwear",
-                                            "name": "Sale Kids' Footwear",
-                                            "link": "https://uk.puma.com/uk/en/sale/kids/footwear?pref_ageGroup=Kids"
-                                        },
-                                        {
-                                            "id": "tier3-kids-4-8-sale-boys-clothing",
-                                            "name": "Sale Boys' Clothing",
-                                            "link": "https://uk.puma.com/uk/en/sale/kids/clothing?pref_ageGroup=Kids&pref_gender=Boys%2CUnisex"
-                                        },
-                                        {
-                                            "id": "tier3-kids-4-8-sale-girls-clothing",
-                                            "name": "Sale Girls' Clothing",
-                                            "link": "https://uk.puma.com/uk/en/sale/kids/clothing?pref_ageGroup=Kids&pref_gender=Unisex%2CGirls"
-                                        }
-                                    ]
                                 }
                             ]
                         },
@@ -1781,44 +1740,44 @@
                                     "id": "tier3-kids-4-8-boys-all-footwear",
                                     "name": "All Boys' Footwear",
                                     "link": "https://uk.puma.com/uk/en/kids/boys/age-4-8-years?pref_productDivision=Footwear"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "tier3-heading-kids-4-8-boys-clothing",
+                            "name": "BOYS' CLOTHING",
+                            "link": "https://uk.puma.com/uk/en/kids/boys/age-4-8-years?pref_productDivision=Clothing",
+                            "isHeading": true,
+                            "children": [
+                                {
+                                    "id": "tier3-kids-4-8-boys-coats-jackets",
+                                    "name": "Coats & Jackets",
+                                    "link": "https://uk.puma.com/uk/en/kids/boys/clothing/coats-and-jackets?pref_ageGroup=Kids"
                                 },
                                 {
-                                    "id": "tier3-heading-kids-4-8-boys-clothing",
-                                    "name": "BOYS' CLOTHING",
-                                    "link": "https://uk.puma.com/uk/en/kids/boys/age-4-8-years?pref_productDivision=Clothing",
-                                    "isHeading": true,
-                                    "children": [
-                                        {
-                                            "id": "tier3-kids-4-8-boys-coats-jackets",
-                                            "name": "Coats & Jackets",
-                                            "link": "https://uk.puma.com/uk/en/kids/boys/clothing/coats-and-jackets?pref_ageGroup=Kids"
-                                        },
-                                        {
-                                            "id": "tier3-kids-4-8-boys-hoodies-sweatshirts",
-                                            "name": "Hoodies & Sweatshirts",
-                                            "link": "https://uk.puma.com/uk/en/kids/boys/clothing/hoodies-and-sweatshirts?pref_ageGroup=Kids"
-                                        },
-                                        {
-                                            "id": "tier3-kids-4-8-boys-tracksuits",
-                                            "name": "Tracksuits",
-                                            "link": "https://uk.puma.com/uk/en/kids/boys/clothing/tracksuits?pref_ageGroup=Kids"
-                                        },
-                                        {
-                                            "id": "tier3-kids-4-8-boys-joggers",
-                                            "name": "Joggers",
-                                            "link": "https://uk.puma.com/uk/en/kids/boys/clothing/joggers?pref_ageGroup=Kids"
-                                        },
-                                        {
-                                            "id": "tier3-kids-4-8-boys-tshirts",
-                                            "name": "T-Shirts",
-                                            "link": "https://uk.puma.com/uk/en/kids/boys/clothing/t-shirts?pref_ageGroup=Kids"
-                                        },
-                                        {
-                                            "id": "tier3-kids-4-8-boys-shorts",
-                                            "name": "Shorts",
-                                            "link": "https://uk.puma.com/uk/en/kids/boys/clothing/shorts?pref_ageGroup=Kids"
-                                        }
-                                    ]
+                                    "id": "tier3-kids-4-8-boys-hoodies-sweatshirts",
+                                    "name": "Hoodies & Sweatshirts",
+                                    "link": "https://uk.puma.com/uk/en/kids/boys/clothing/hoodies-and-sweatshirts?pref_ageGroup=Kids"
+                                },
+                                {
+                                    "id": "tier3-kids-4-8-boys-tracksuits",
+                                    "name": "Tracksuits",
+                                    "link": "https://uk.puma.com/uk/en/kids/boys/clothing/tracksuits?pref_ageGroup=Kids"
+                                },
+                                {
+                                    "id": "tier3-kids-4-8-boys-joggers",
+                                    "name": "Joggers",
+                                    "link": "https://uk.puma.com/uk/en/kids/boys/clothing/joggers?pref_ageGroup=Kids"
+                                },
+                                {
+                                    "id": "tier3-kids-4-8-boys-tshirts",
+                                    "name": "T-Shirts",
+                                    "link": "https://uk.puma.com/uk/en/kids/boys/clothing/t-shirts?pref_ageGroup=Kids"
+                                },
+                                {
+                                    "id": "tier3-kids-4-8-boys-shorts",
+                                    "name": "Shorts",
+                                    "link": "https://uk.puma.com/uk/en/kids/boys/clothing/shorts?pref_ageGroup=Kids"
                                 }
                             ]
                         },
@@ -1847,49 +1806,90 @@
                                     "id": "tier3-kids-4-8-girls-all-footwear",
                                     "name": "All Girls' Footwear",
                                     "link": "https://uk.puma.com/uk/en/kids/shop-by-age/age-4-8-years?pref_productDivision=Footwear"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "tier3-heading-kids-4-8-girls-clothing",
+                            "name": "GIRLS' CLOTHING",
+                            "link": "https://uk.puma.com/uk/en/kids/shop-by-age/age-4-8-years?pref_productDivision=Clothing",
+                            "isHeading": true,
+                            "children": [
+                                {
+                                    "id": "tier3-kids-4-8-girls-coats-jackets",
+                                    "name": "Coats & Jackets",
+                                    "link": "https://uk.puma.com/uk/en/kids/girls/clothing/coats-and-jackets?pref_ageGroup=Kids"
                                 },
                                 {
-                                    "id": "tier3-heading-kids-4-8-girls-clothing",
-                                    "name": "GIRLS' CLOTHING",
-                                    "link": "https://uk.puma.com/uk/en/kids/shop-by-age/age-4-8-years?pref_productDivision=Clothing",
-                                    "isHeading": true,
-                                    "children": [
-                                        {
-                                            "id": "tier3-kids-4-8-girls-coats-jackets",
-                                            "name": "Coats & Jackets",
-                                            "link": "https://uk.puma.com/uk/en/kids/girls/clothing/coats-and-jackets?pref_ageGroup=Kids"
-                                        },
-                                        {
-                                            "id": "tier3-kids-4-8-girls-hoodies-sweatshirts",
-                                            "name": "Hoodies & Sweatshirts",
-                                            "link": "https://uk.puma.com/uk/en/kids/girls/clothing/hoodies-and-sweatshirts?pref_ageGroup=Kids"
-                                        },
-                                        {
-                                            "id": "tier3-kids-4-8-girls-leggings-joggers",
-                                            "name": "Leggings & Joggers",
-                                            "link": "https://uk.puma.com/uk/en/kids/girls/clothing/leggings-and-joggers?pref_ageGroup=Kids"
-                                        },
-                                        {
-                                            "id": "tier3-kids-4-8-girls-matching-sets",
-                                            "name": "Matching Sets",
-                                            "link": "https://uk.puma.com/uk/en/kids/girls/clothing/matching-sets?pref_ageGroup=Kids"
-                                        },
-                                        {
-                                            "id": "tier3-kids-4-8-girls-tshirts",
-                                            "name": "T-Shirts",
-                                            "link": "https://uk.puma.com/uk/en/kids/girls/clothing/t-shirts-and-tops?pref_ageGroup=Kids"
-                                        },
-                                        {
-                                            "id": "tier3-kids-4-8-girls-dresses",
-                                            "name": "Dresses",
-                                            "link": "https://uk.puma.com/uk/en/kids/girls/clothing/dresses?pref_ageGroup=Kids"
-                                        },
-                                        {
-                                            "id": "tier3-kids-4-8-girls-shorts",
-                                            "name": "Shorts",
-                                            "link": "https://uk.puma.com/uk/en/kids/girls/clothing/shorts?pref_ageGroup=Kids"
-                                        }
-                                    ]
+                                    "id": "tier3-kids-4-8-girls-hoodies-sweatshirts",
+                                    "name": "Hoodies & Sweatshirts",
+                                    "link": "https://uk.puma.com/uk/en/kids/girls/clothing/hoodies-and-sweatshirts?pref_ageGroup=Kids"
+                                },
+                                {
+                                    "id": "tier3-kids-4-8-girls-leggings-joggers",
+                                    "name": "Leggings & Joggers",
+                                    "link": "https://uk.puma.com/uk/en/kids/girls/clothing/leggings-and-joggers?pref_ageGroup=Kids"
+                                },
+                                {
+                                    "id": "tier3-kids-4-8-girls-matching-sets",
+                                    "name": "Matching Sets",
+                                    "link": "https://uk.puma.com/uk/en/kids/girls/clothing/matching-sets?pref_ageGroup=Kids"
+                                },
+                                {
+                                    "id": "tier3-kids-4-8-girls-tshirts",
+                                    "name": "T-Shirts",
+                                    "link": "https://uk.puma.com/uk/en/kids/girls/clothing/t-shirts-and-tops?pref_ageGroup=Kids"
+                                },
+                                {
+                                    "id": "tier3-kids-4-8-girls-dresses",
+                                    "name": "Dresses",
+                                    "link": "https://uk.puma.com/uk/en/kids/girls/clothing/dresses?pref_ageGroup=Kids"
+                                },
+                                {
+                                    "id": "tier3-kids-4-8-girls-shorts",
+                                    "name": "Shorts",
+                                    "link": "https://uk.puma.com/uk/en/kids/girls/clothing/shorts?pref_ageGroup=Kids"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "tier3-heading-kids-4-8-accessories",
+                            "name": "KIDS' ACCESSORIES",
+                            "link": null,
+                            "isHeading": true,
+                            "children": [
+                                {
+                                    "id": "tier3-kids-4-8-boys-accessories",
+                                    "name": "Boys' Accessories",
+                                    "link": "https://uk.puma.com/uk/en/kids/boys/age-4-8-years?pref_productDivision=Accessories"
+                                },
+                                {
+                                    "id": "tier3-kids-4-8-girls-accessories",
+                                    "name": "Girls' Accessories",
+                                    "link": "https://uk.puma.com/uk/en/kids/shop-by-age/age-4-8-years?pref_productDivision=Accessories"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "tier3-heading-kids-4-8-sale",
+                            "name": "SALE",
+                            "link": "https://uk.puma.com/uk/en/sale/kids?pref_ageGroup=Kids",
+                            "isHeading": true,
+                            "children": [
+                                {
+                                    "id": "tier3-kids-4-8-sale-footwear",
+                                    "name": "Sale Kids' Footwear",
+                                    "link": "https://uk.puma.com/uk/en/sale/kids/footwear?pref_ageGroup=Kids"
+                                },
+                                {
+                                    "id": "tier3-kids-4-8-sale-boys-clothing",
+                                    "name": "Sale Boys' Clothing",
+                                    "link": "https://uk.puma.com/uk/en/sale/kids/clothing?pref_ageGroup=Kids&pref_gender=Boys%2CUnisex"
+                                },
+                                {
+                                    "id": "tier3-kids-4-8-sale-girls-clothing",
+                                    "name": "Sale Girls' Clothing",
+                                    "link": "https://uk.puma.com/uk/en/sale/kids/clothing?pref_ageGroup=Kids&pref_gender=Unisex%2CGirls"
                                 }
                             ]
                         }
@@ -1925,47 +1925,6 @@
                                     "id": "tier3-puma-x-hello-kitty",
                                     "name": "PUMA X HELLO KITTY",
                                     "link": "https://uk.puma.com/uk/en/collections/lifestyle-collaborations/puma-x-hello-kitty"
-                                },
-                                {
-                                    "id": "tier3-heading-kids-0-4-accessories",
-                                    "name": "KIDS' ACCESSORIES",
-                                    "link": null,
-                                    "isHeading": true,
-                                    "children": [
-                                        {
-                                            "id": "tier3-kids-0-4-boys-accessories",
-                                            "name": "Boys' Accessories",
-                                            "link": "https://uk.puma.com/uk/en/kids/boys/age-0-4-years?pref_productDivision=Accessories"
-                                        },
-                                        {
-                                            "id": "tier3-kids-0-4-girls-accessories",
-                                            "name": "Girls' Accessories",
-                                            "link": "https://uk.puma.com/uk/en/kids/shop-by-age/age-0-4-years?pref_productDivision=Accessories"
-                                        }
-                                    ]
-                                },
-                                {
-                                    "id": "tier3-heading-kids-0-4-sale",
-                                    "name": "SALE",
-                                    "link": "https://uk.puma.com/uk/en/sale/kids?pref_ageGroup=Baby",
-                                    "isHeading": true,
-                                    "children": [
-                                        {
-                                            "id": "tier3-kids-0-4-sale-footwear",
-                                            "name": "Sale Kids' Footwear",
-                                            "link": "https://uk.puma.com/uk/en/sale/kids/footwear?pref_ageGroup=Baby"
-                                        },
-                                        {
-                                            "id": "tier3-kids-0-4-sale-boys-clothing",
-                                            "name": "Sale Boys' Clothing",
-                                            "link": "https://uk.puma.com/uk/en/sale/kids/clothing?pref_ageGroup=Baby&pref_gender=Unisex%2CBoys"
-                                        },
-                                        {
-                                            "id": "tier3-kids-0-4-sale-girls-clothing",
-                                            "name": "Sale Girls' Clothing",
-                                            "link": "https://uk.puma.com/uk/en/sale/kids/clothing?pref_ageGroup=Baby&pref_gender=Unisex%2CGirls"
-                                        }
-                                    ]
                                 }
                             ]
                         },
@@ -1994,39 +1953,39 @@
                                     "id": "tier3-kids-0-4-boys-all-footwear",
                                     "name": "All Boys' Footwear",
                                     "link": "https://uk.puma.com/uk/en/kids/boys/age-0-4-years?pref_productDivision=Footwear"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "tier3-heading-kids-0-4-boys-clothing",
+                            "name": "BOYS' CLOTHING",
+                            "link": "https://uk.puma.com/uk/en/kids/boys/age-0-4-years?pref_productDivision=Clothing",
+                            "isHeading": true,
+                            "children": [
+                                {
+                                    "id": "tier3-kids-0-4-boys-coats-jackets",
+                                    "name": "Coats & Jackets",
+                                    "link": "https://uk.puma.com/uk/en/kids/boys/clothing/coats-and-jackets?pref_ageGroup=Baby"
                                 },
                                 {
-                                    "id": "tier3-heading-kids-0-4-boys-clothing",
-                                    "name": "BOYS' CLOTHING",
-                                    "link": "https://uk.puma.com/uk/en/kids/boys/age-0-4-years?pref_productDivision=Clothing",
-                                    "isHeading": true,
-                                    "children": [
-                                        {
-                                            "id": "tier3-kids-0-4-boys-coats-jackets",
-                                            "name": "Coats & Jackets",
-                                            "link": "https://uk.puma.com/uk/en/kids/boys/clothing/coats-and-jackets?pref_ageGroup=Baby"
-                                        },
-                                        {
-                                            "id": "tier3-kids-0-4-boys-hoodies-sweatshirts",
-                                            "name": "Hoodies & Sweatshirts",
-                                            "link": "https://uk.puma.com/uk/en/kids/boys/clothing/hoodies-and-sweatshirts?pref_ageGroup=Baby"
-                                        },
-                                        {
-                                            "id": "tier3-kids-0-4-boys-tracksuits",
-                                            "name": "Tracksuits",
-                                            "link": "https://uk.puma.com/uk/en/kids/boys/clothing/tracksuits?pref_ageGroup=Baby"
-                                        },
-                                        {
-                                            "id": "tier3-kids-0-4-boys-joggers",
-                                            "name": "Joggers",
-                                            "link": "https://uk.puma.com/uk/en/kids/boys/clothing/joggers?pref_ageGroup=Baby"
-                                        },
-                                        {
-                                            "id": "tier3-kids-0-4-boys-tshirts",
-                                            "name": "T-Shirts",
-                                            "link": "https://uk.puma.com/uk/en/kids/boys/clothing/t-shirts?pref_ageGroup=Baby"
-                                        }
-                                    ]
+                                    "id": "tier3-kids-0-4-boys-hoodies-sweatshirts",
+                                    "name": "Hoodies & Sweatshirts",
+                                    "link": "https://uk.puma.com/uk/en/kids/boys/clothing/hoodies-and-sweatshirts?pref_ageGroup=Baby"
+                                },
+                                {
+                                    "id": "tier3-kids-0-4-boys-tracksuits",
+                                    "name": "Tracksuits",
+                                    "link": "https://uk.puma.com/uk/en/kids/boys/clothing/tracksuits?pref_ageGroup=Baby"
+                                },
+                                {
+                                    "id": "tier3-kids-0-4-boys-joggers",
+                                    "name": "Joggers",
+                                    "link": "https://uk.puma.com/uk/en/kids/boys/clothing/joggers?pref_ageGroup=Baby"
+                                },
+                                {
+                                    "id": "tier3-kids-0-4-boys-tshirts",
+                                    "name": "T-Shirts",
+                                    "link": "https://uk.puma.com/uk/en/kids/boys/clothing/t-shirts?pref_ageGroup=Baby"
                                 }
                             ]
                         },
@@ -2055,39 +2014,80 @@
                                     "id": "tier3-kids-0-4-girls-shoes",
                                     "name": "All Girls' Footwear",
                                     "link": "https://uk.puma.com/uk/en/kids/shop-by-age/age-0-4-years?pref_productDivision=Footwear"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "tier3-heading-kids-0-4-girls-clothing-accessories",
+                            "name": "GIRLS' CLOTHING",
+                            "link": "https://uk.puma.com/uk/en/kids/shop-by-age/age-0-4-years?pref_productDivision=Clothing",
+                            "isHeading": true,
+                            "children": [
+                                {
+                                    "id": "tier3-kids-0-4-girls-coats-jackets",
+                                    "name": "Coats & Jackets",
+                                    "link": "https://uk.puma.com/uk/en/kids/girls/clothing/coats-and-jackets?pref_ageGroup=Baby"
                                 },
                                 {
-                                    "id": "tier3-heading-kids-0-4-girls-clothing-accessories",
-                                    "name": "GIRLS' CLOTHING",
-                                    "link": "https://uk.puma.com/uk/en/kids/shop-by-age/age-0-4-years?pref_productDivision=Clothing",
-                                    "isHeading": true,
-                                    "children": [
-                                        {
-                                            "id": "tier3-kids-0-4-girls-coats-jackets",
-                                            "name": "Coats & Jackets",
-                                            "link": "https://uk.puma.com/uk/en/kids/girls/clothing/coats-and-jackets?pref_ageGroup=Baby"
-                                        },
-                                        {
-                                            "id": "tier3-kids-0-4-girls-hoodies-sweatshirts",
-                                            "name": "Hoodies & Sweatshirts",
-                                            "link": "https://uk.puma.com/uk/en/kids/girls/clothing/hoodies-and-sweatshirts?pref_ageGroup=Baby"
-                                        },
-                                        {
-                                            "id": "tier3-kids-0-4-girls-leggings-joggers",
-                                            "name": "Leggings & Joggers",
-                                            "link": "https://uk.puma.com/uk/en/kids/girls/clothing/leggings-and-joggers?pref_ageGroup=Baby"
-                                        },
-                                        {
-                                            "id": "tier3-kids-0-4-girls-matching-sets",
-                                            "name": "Matching Sets",
-                                            "link": "https://uk.puma.com/uk/en/kids/girls/clothing/matching-sets?pref_ageGroup=Baby"
-                                        },
-                                        {
-                                            "id": "tier3-kids-0-4-girls-tshirts",
-                                            "name": "T-Shirts",
-                                            "link": "https://uk.puma.com/uk/en/kids/girls/clothing/t-shirts-and-tops?pref_ageGroup=Baby"
-                                        }
-                                    ]
+                                    "id": "tier3-kids-0-4-girls-hoodies-sweatshirts",
+                                    "name": "Hoodies & Sweatshirts",
+                                    "link": "https://uk.puma.com/uk/en/kids/girls/clothing/hoodies-and-sweatshirts?pref_ageGroup=Baby"
+                                },
+                                {
+                                    "id": "tier3-kids-0-4-girls-leggings-joggers",
+                                    "name": "Leggings & Joggers",
+                                    "link": "https://uk.puma.com/uk/en/kids/girls/clothing/leggings-and-joggers?pref_ageGroup=Baby"
+                                },
+                                {
+                                    "id": "tier3-kids-0-4-girls-matching-sets",
+                                    "name": "Matching Sets",
+                                    "link": "https://uk.puma.com/uk/en/kids/girls/clothing/matching-sets?pref_ageGroup=Baby"
+                                },
+                                {
+                                    "id": "tier3-kids-0-4-girls-tshirts",
+                                    "name": "T-Shirts",
+                                    "link": "https://uk.puma.com/uk/en/kids/girls/clothing/t-shirts-and-tops?pref_ageGroup=Baby"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "tier3-heading-kids-0-4-accessories",
+                            "name": "KIDS' ACCESSORIES",
+                            "link": null,
+                            "isHeading": true,
+                            "children": [
+                                {
+                                    "id": "tier3-kids-0-4-boys-accessories",
+                                    "name": "Boys' Accessories",
+                                    "link": "https://uk.puma.com/uk/en/kids/boys/age-0-4-years?pref_productDivision=Accessories"
+                                },
+                                {
+                                    "id": "tier3-kids-0-4-girls-accessories",
+                                    "name": "Girls' Accessories",
+                                    "link": "https://uk.puma.com/uk/en/kids/shop-by-age/age-0-4-years?pref_productDivision=Accessories"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "tier3-heading-kids-0-4-sale",
+                            "name": "SALE",
+                            "link": "https://uk.puma.com/uk/en/sale/kids?pref_ageGroup=Baby",
+                            "isHeading": true,
+                            "children": [
+                                {
+                                    "id": "tier3-kids-0-4-sale-footwear",
+                                    "name": "Sale Kids' Footwear",
+                                    "link": "https://uk.puma.com/uk/en/sale/kids/footwear?pref_ageGroup=Baby"
+                                },
+                                {
+                                    "id": "tier3-kids-0-4-sale-boys-clothing",
+                                    "name": "Sale Boys' Clothing",
+                                    "link": "https://uk.puma.com/uk/en/sale/kids/clothing?pref_ageGroup=Baby&pref_gender=Unisex%2CBoys"
+                                },
+                                {
+                                    "id": "tier3-kids-0-4-sale-girls-clothing",
+                                    "name": "Sale Girls' Clothing",
+                                    "link": "https://uk.puma.com/uk/en/sale/kids/clothing?pref_ageGroup=Baby&pref_gender=Unisex%2CGirls"
                                 }
                             ]
                         }
@@ -2236,19 +2236,19 @@
                                     "id": "tier3-training-collection",
                                     "name": "Training Collection",
                                     "link": "https://uk.puma.com/uk/en/sports/training/essentials"
-                                },
+                                }
+                            ]
+                        },
+                        {
+                            "id": "tier3-heading-swimwear",
+                            "name": "SWIMWEAR",
+                            "link": "https://uk.puma.com/uk/en/sports/other-sports/swimwear",
+                            "isHeading": true,
+                            "children": [
                                 {
-                                    "id": "tier3-heading-swimwear",
-                                    "name": "SWIMWEAR",
-                                    "link": "https://uk.puma.com/uk/en/sports/other-sports/swimwear",
-                                    "isHeading": true,
-                                    "children": [
-                                        {
-                                            "id": "tier3-swimwear-link",
-                                            "name": "Swimwear",
-                                            "link": "https://uk.puma.com/uk/en/sports/other-sports/swimwear"
-                                        }
-                                    ]
+                                    "id": "tier3-swimwear-link",
+                                    "name": "Swimwear",
+                                    "link": "https://uk.puma.com/uk/en/sports/other-sports/swimwear"
                                 }
                             ]
                         }
@@ -2340,19 +2340,19 @@
                                     "id": "tier3-all-national-teams",
                                     "name": "All National Teams",
                                     "link": "https://uk.puma.com/uk/en/sports/football/national-teams"
-                                },
+                                }
+                            ]
+                        },
+                        {
+                            "id": "tier3-heading-football-collabs",
+                            "name": "FOOTBALL COLLABS",
+                            "link": "https://uk.puma.com/uk/en/sports/football/neymar-jr",
+                            "isHeading": true,
+                            "children": [
                                 {
-                                    "id": "tier3-heading-football-collabs",
-                                    "name": "FOOTBALL COLLABS",
-                                    "link": "https://uk.puma.com/uk/en/sports/football/neymar-jr",
-                                    "isHeading": true,
-                                    "children": [
-                                        {
-                                            "id": "tier3-neymar-jr-collab",
-                                            "name": "PUMA X NEYMAR JR | Football",
-                                            "link": "https://uk.puma.com/uk/en/sports/football/neymar-jr"
-                                        }
-                                    ]
+                                    "id": "tier3-neymar-jr-collab",
+                                    "name": "PUMA X NEYMAR JR | Football",
+                                    "link": "https://uk.puma.com/uk/en/sports/football/neymar-jr"
                                 }
                             ]
                         }
