@@ -19,7 +19,7 @@
                                 {
                                     "id": "tier3-new-arrivals",
                                     "name": "New Arrivals",
-                                    "link": "https://uk.puma.com/uk/en/search?q=new%20arrivals"
+                                    "link": "https://uk.puma.com/uk/en/men/new-arrivals"
                                 },
                                 {
                                     "id": "tier3-launch-calendar",
@@ -227,7 +227,7 @@
                                 {
                                     "id": "tier3-women-new-footwear",
                                     "name": "New Footwear",
-                                    "link": "https://uk.puma.com/uk/en/women/new-arrivals?pref_productDivision=Footwear"
+                                    "link": "https://uk.puma.com/uk/en/women/new-arrivals?filter_product_division=%3E%7Bfootwear%7D"
                                 },
                                 {
                                     "id": "tier3-women-speedcat-collection",
@@ -265,7 +265,7 @@
                                 {
                                     "id": "tier3-women-white-trainers",
                                     "name": "White Trainers",
-                                    "link": "https://uk.puma.com/uk/en/women/shoes/trainers?pref_color=white"
+                                    "link": "https://uk.puma.com/uk/en/womens-shoes-white-trainers"
                                 },
                                 {
                                     "id": "tier3-women-puma-classic-trainers",
@@ -351,7 +351,7 @@
                                 {
                                     "id": "tier3-women-clothing-new-arrivals",
                                     "name": "New Arrivals",
-                                    "link": "https://uk.puma.com/uk/en/women/new-arrivals?pref_productDivision=Clothing"
+                                    "link": "https://uk.puma.com/uk/en/women/new-arrivals?filter_product_division=%3E%7Bclothing%7D"
                                 },
                                 {
                                     "id": "tier3-women-clothing-butter-yellow",
@@ -890,7 +890,7 @@
                                 {
                                     "id": "tier3-men-new-footwear",
                                     "name": "New Footwear",
-                                    "link": "https://uk.puma.com/uk/en/men/new-arrivals?pref_productDivision=Footwear"
+                                    "link": "https://uk.puma.com/uk/en/men/new-arrivals?filter_product_division=%3E%7Bfootwear%7D"
                                 },
                                 {
                                     "id": "tier3-men-speedcat-collection",
@@ -913,7 +913,7 @@
                                 {
                                     "id": "tier3-men-white-trainers",
                                     "name": "White Trainers",
-                                    "link": "https://uk.puma.com/uk/en/mens/shoes/mens-trainers-and-sneakers?pref_color=white"
+                                    "link": "https://uk.puma.com/uk/en/men/shoes/white-trainers"
                                 },
                                 {
                                     "id": "tier3-men-puma-classics",
@@ -999,7 +999,7 @@
                                 {
                                     "id": "tier3-men-new-arrivals",
                                     "name": "New Arrivals",
-                                    "link": "https://uk.puma.com/uk/en/men/new-arrivals?pref_productDivision=Clothing"
+                                    "link": "https://uk.puma.com/uk/en/men/new-arrivals?filter_product_division=%3E%7Bclothing%7D"
                                 },
                                 {
                                     "id": "tier3-men-butter-yellow",
